@@ -1,0 +1,10 @@
+../Core/Src/lcd.c:16:6:lcd_init	1
+../Core/Src/lcd.c:89:6:clearlcd	1
+../Core/Src/lcd.c:97:6:lcd_write	1
+../Core/Src/lcd.c:104:6:lcd_print	2
+../Core/Src/lcd.c:118:6:lcd_position	2
+../Core/Src/lcd.c:136:6:reglagecouleur	1
+../Core/Src/lcd.c:156:6:variable_Transmit	1
+../Core/Src/lcd.c:160:6:lcd_put_cur	2
+../Core/Src/lcd.c:171:6:lcd_send_data	1
+../Core/Src/lcd.c:178:6:lcd_send_string	2
