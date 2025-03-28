@@ -1,4 +1,5 @@
-Connected Beehive
+Connected,
+Beehive
 This project aims to develop a connected beehive that monitors the health and activity of bees in real-time using various sensors and LoRa technology. It is an innovative solution to improve beehive management and facilitate the monitoring of environmental conditions.
 
 Features
